@@ -50,6 +50,10 @@ p{
     color: var(--primary);
 }
 
+.event-date{
+    min-width: 130px;
+}
+
 .event-text{
     border-left: 4px dashed var(--primary);
     padding-bottom: 2em;
